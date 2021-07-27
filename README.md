@@ -1,2 +1,7 @@
 # jorcs.net
-Website for my vanity domain.
+
+Website for vanity domain.
+
+## Remember
+
+Hosted on Netlify.
