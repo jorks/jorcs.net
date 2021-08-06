@@ -11,7 +11,7 @@ Gemfile.lock
 **/vendor/bundle
 
 # macOS
-.DS_Store
+**/.DS_Store
 
 # Jekyll generated files
 .jekyll-cache
